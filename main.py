@@ -1,0 +1,1 @@
+str = "heyy you wassuo\n"
